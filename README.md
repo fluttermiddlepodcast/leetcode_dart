@@ -4,15 +4,16 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 
 ## Easy
 
-| Name                                    | LeetCode                                                                   | Solution                                                    |
-|-----------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| Name                                    | LeetCode                                                                  | Solution                                                    |
+|-----------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------|
 | 26. Remove Duplicates from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](./lib/easy/remove_duplicates_from_sorted_array.dart) |
-| 136. Single Number                      | [Link](https://leetcode.com/problems/single-number/)                       | [Link](./lib/easy/single_number.dart)                       |
-| 144. Binary Tree Preorder Traversal     | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)      | [Link](./lib/easy/binary_tree_preorder_traversal.dart)      |
-| 169. Majority Element                   | [Link](https://leetcode.com/problems/majority-element/)                    | [Link](./lib/easy/majority_element.dart)                    |
-| 217. Contains Duplicate                 | [Link](https://leetcode.com/problems/contains-duplicate/)                  | [Link](./lib/easy/contains_duplicate.dart)                  |
-| 226. Invert Binary Tree                 | [Link](https://leetcode.com/problems/invert-binary-tree/)                  | [Link](./lib/easy/invert_binary_tree.dart)                  |
-| 414. Third Maximum Number               | [Link](https://leetcode.com/problems/third-maximum-number/)                | [Link](./lib/easy/third_maximum_number.dart)                |
+| 136. Single Number                      | [Link](https://leetcode.com/problems/single-number/)                      | [Link](./lib/easy/single_number.dart)                       |
+| 144. Binary Tree Preorder Traversal     | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)     | [Link](./lib/easy/binary_tree_preorder_traversal.dart)      |
+| 169. Majority Element                   | [Link](https://leetcode.com/problems/majority-element/)                   | [Link](./lib/easy/majority_element.dart)                    |
+| 217. Contains Duplicate                 | [Link](https://leetcode.com/problems/contains-duplicate/)                 | [Link](./lib/easy/contains_duplicate.dart)                  |
+| 226. Invert Binary Tree                 | [Link](https://leetcode.com/problems/invert-binary-tree/)                 | [Link](./lib/easy/invert_binary_tree.dart)                  |
+| 414. Third Maximum Number               | [Link](https://leetcode.com/problems/third-maximum-number/)               | [Link](./lib/easy/third_maximum_number.dart)                |
+| 2119. A Number After a Double Reversal| [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/)                | [Link](./lib/easy/third_maximum_number.dart)                |
 
 ## Medium
 
