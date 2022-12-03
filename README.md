@@ -13,6 +13,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 217. Contains Duplicate                 | [Link](https://leetcode.com/problems/contains-duplicate/)                  | [Link](./lib/easy/contains_duplicate.dart)                  |
 | 226. Invert Binary Tree                 | [Link](https://leetcode.com/problems/invert-binary-tree/)                  | [Link](./lib/easy/invert_binary_tree.dart)                  |
 | 414. Third Maximum Number               | [Link](https://leetcode.com/problems/third-maximum-number/)                | [Link](./lib/easy/third_maximum_number.dart)                |
+| 796. Rotate String                      | [Link](https://leetcode.com/problems/rotate-string/)                       | [Link](./lib/easy/rotate_string.dart)                       |
 
 ## Medium
 
