@@ -12,6 +12,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 169. Majority Element                   | [Link](https://leetcode.com/problems/majority-element/)                    | [Link](./lib/easy/majority_element.dart)                    |
 | 217. Contains Duplicate                 | [Link](https://leetcode.com/problems/contains-duplicate/)                  | [Link](./lib/easy/contains_duplicate.dart)                  |
 | 226. Invert Binary Tree                 | [Link](https://leetcode.com/problems/invert-binary-tree/)                  | [Link](./lib/easy/invert_binary_tree.dart)                  |
+| 342. Power of Four                      | [Link](https://leetcode.com/problems/power-of-four/)                       | [Link](./lib/easy/power_of_four.dart)                       |
 | 414. Third Maximum Number               | [Link](https://leetcode.com/problems/third-maximum-number/)                | [Link](./lib/easy/third_maximum_number.dart)                |
 
 ## Medium
