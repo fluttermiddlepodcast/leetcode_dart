@@ -15,6 +15,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 226. Invert Binary Tree                 | [Link](https://leetcode.com/problems/invert-binary-tree/)                  | [Link](./lib/easy/invert_binary_tree.dart)                  |
 | 342. Power of Four                      | [Link](https://leetcode.com/problems/power-of-four/)                       | [Link](./lib/easy/power_of_four.dart)                       |
 | 414. Third Maximum Number               | [Link](https://leetcode.com/problems/third-maximum-number/)                | [Link](./lib/easy/third_maximum_number.dart)                |
+| 796. Rotate String                      | [Link](https://leetcode.com/problems/rotate-string/)                       | [Link](./lib/easy/rotate_string.dart)                       |
 | 2119. A Number After a Double Reversal  | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/)    | [Link](./lib/easy/third_maximum_number.dart)                |
 
 ## Medium
