@@ -18,6 +18,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 796. Rotate String                      | [Link](https://leetcode.com/problems/rotate-string/)                       | [Link](./lib/easy/rotate_string.dart)                       |
 | 2119. A Number After a Double Reversal  | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/)    | [Link](./lib/easy/third_maximum_number.dart)                |
 | 2481. Minimum Cuts to Divide a Circle   | [Link](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)     | [Link](./lib/easy/minimum_cuts_to_divide_a_circle.dart)     |
+| 2490. Circular Sentence                 | [Link](https://leetcode.com/problems/circular-sentence/)                   | [Link](./lib/easy/circular_sentence.dart)                   |
 
 ## Medium
 
