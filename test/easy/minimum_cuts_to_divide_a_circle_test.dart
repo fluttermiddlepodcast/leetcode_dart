@@ -7,8 +7,8 @@ void main() {
     'Example tests',
     () {
       final mctdac = Solution();
-      test('2', () => expect(true, mctdac.numberOfCuts(4)));
-      test('3', () => expect(true, mctdac.numberOfCuts(3)));
+      test('2', () => expect(2, mctdac.numberOfCuts(4)));
+      test('3', () => expect(3, mctdac.numberOfCuts(3)));
     },
   );
 }
