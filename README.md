@@ -29,3 +29,9 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 230. Kth Smallest Element in a BST     | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)    | [Link](./lib/medium/kth_smallest_element_in_a_bst.dart)    |
 | 328. Odd Even Linked List              | [Link](https://leetcode.com/problems/odd-even-linked-list/)             | [Link](./lib/medium/odd_even_linked_list.dart)             |
 | 1325. Delete Leaves With a Given Value | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Link](./lib/medium/delete_leaves_with_a_given_value.dart) |
+
+## Hard
+
+| Name                      | LeetCode                                                    | Solution                                     |
+|---------------------------|-------------------------------------------------------------|----------------------------------------------|
+| 23. Merge k Sorted Lists  | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) | [Link](./lib/hard/merge_k_sorted_lists.dart) |
