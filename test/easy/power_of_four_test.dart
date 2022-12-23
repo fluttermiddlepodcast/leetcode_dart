@@ -1,6 +1,5 @@
 import 'package:leetcode_dart/easy/power_of_four.dart';
-import 'package:test/expect.dart';
-import 'package:test/scaffolding.dart';
+import 'package:test/test.dart';
 
 void main() {
   group(

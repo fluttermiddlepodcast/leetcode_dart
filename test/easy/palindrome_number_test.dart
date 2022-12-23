@@ -1,6 +1,5 @@
 import 'package:leetcode_dart/easy/palindrome_number.dart';
-import 'package:test/expect.dart';
-import 'package:test/scaffolding.dart';
+import 'package:test/test.dart';
 
 void main() {
   group(
