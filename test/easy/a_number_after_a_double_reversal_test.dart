@@ -1,6 +1,5 @@
 import 'package:leetcode_dart/easy/a_number_after_a_double_reversal.dart';
-import 'package:test/expect.dart';
-import 'package:test/scaffolding.dart';
+import 'package:test/test.dart';
 
 void main() {
   group(

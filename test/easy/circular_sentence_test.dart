@@ -1,6 +1,5 @@
 import 'package:leetcode_dart/easy/circular_sentence.dart';
-import 'package:test/expect.dart';
-import 'package:test/scaffolding.dart';
+import 'package:test/test.dart';
 
 void main() {
   group(
@@ -10,7 +9,9 @@ void main() {
       test(
         'true',
         () => expect(
-            true, cs.isCircularSentence('leetcode exercises sound delightful')),
+          true,
+          cs.isCircularSentence('leetcode exercises sound delightful'),
+        ),
       );
       test(
         'true',
