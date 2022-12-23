@@ -34,4 +34,5 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 
 | Name                           | LeetCode                                                         | Solution                                          |
 |--------------------------------|------------------------------------------------------------------|---------------------------------------------------|
+| 23. Merge k Sorted Lists       | [Link](https://leetcode.com/problems/merge-k-sorted-lists/)      | [Link](./lib/hard/merge_k_sorted_lists.dart)      |
 | 32. Longest Valid Parentheses  | [Link](https://leetcode.com/problems/longest-valid-parentheses/) | [Link](./lib/hard/longest_valid_parentheses.dart) |
