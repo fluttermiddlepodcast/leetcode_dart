@@ -17,6 +17,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 414. Third Maximum Number                   | [Link](https://leetcode.com/problems/third-maximum-number/)                  | [Link](./lib/easy/third_maximum_number.dart)                  |
 | 796. Rotate String                          | [Link](https://leetcode.com/problems/rotate-string/)                         | [Link](./lib/easy/rotate_string.dart)                         |
 | 944. Delete Columns to Make Sorted          | [Link](https://leetcode.com/problems/delete-columns-to-make-sorted/)         | [Link](./lib/easy/delete_columns_to_make_sorted.dart)         |
+| 1528. Shuffle String                        | [Link](https://leetcode.com/problems/shuffle-string/)                        | [Link](./lib/easy/shuffle_string.dart)                        |
 | 1903. Largest Odd Number in String          | [Link](https://leetcode.com/problems/largest-odd-number-in-string/)          | [Link](./lib/easy/largest_odd_number_in_string.dart)          |
 | 2119. A Number After a Double Reversal      | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/)      | [Link](./lib/easy/third_maximum_number.dart)                  |
 | 2239. Find Closest Number to Zero           | [Link](https://leetcode.com/problems/find-closest-number-to-zero/)           | [Link](./lib/easy/find_closest_number_to_zero.dart)           |
@@ -37,7 +38,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 
 ## Hard
 
-| Name                           | LeetCode                                                         | Solution                                          |
-|--------------------------------|------------------------------------------------------------------|---------------------------------------------------|
-| 23. Merge k Sorted Lists       | [Link](https://leetcode.com/problems/merge-k-sorted-lists/)      | [Link](./lib/hard/merge_k_sorted_lists.dart)      |
-| 32. Longest Valid Parentheses  | [Link](https://leetcode.com/problems/longest-valid-parentheses/) | [Link](./lib/hard/longest_valid_parentheses.dart) |
+| Name                          | LeetCode                                                         | Solution                                          |
+|-------------------------------|------------------------------------------------------------------|---------------------------------------------------|
+| 23. Merge k Sorted Lists      | [Link](https://leetcode.com/problems/merge-k-sorted-lists/)      | [Link](./lib/hard/merge_k_sorted_lists.dart)      |
+| 32. Longest Valid Parentheses | [Link](https://leetcode.com/problems/longest-valid-parentheses/) | [Link](./lib/hard/longest_valid_parentheses.dart) |
