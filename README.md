@@ -17,12 +17,13 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 414. Third Maximum Number                   | [Link](https://leetcode.com/problems/third-maximum-number/)                  | [Link](./lib/easy/third_maximum_number.dart)                  |
 | 796. Rotate String                          | [Link](https://leetcode.com/problems/rotate-string/)                         | [Link](./lib/easy/rotate_string.dart)                         |
 | 944. Delete Columns to Make Sorted          | [Link](https://leetcode.com/problems/delete-columns-to-make-sorted/)         | [Link](./lib/easy/delete_columns_to_make_sorted.dart)         |
+| 1903. Largest Odd Number in String          | [Link](https://leetcode.com/problems/largest-odd-number-in-string/)          | [Link](./lib/easy/largest_odd_number_in_string.dart)          |
 | 2119. A Number After a Double Reversal      | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/)      | [Link](./lib/easy/third_maximum_number.dart)                  |
 | 2239. Find Closest Number to Zero           | [Link](https://leetcode.com/problems/find-closest-number-to-zero/)           | [Link](./lib/easy/find_closest_number_to_zero.dart)           |
 | 2481. Minimum Cuts to Divide a Circle       | [Link](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)       | [Link](./lib/easy/minimum_cuts_to_divide_a_circle.dart)       |
 | 2490. Circular Sentence                     | [Link](https://leetcode.com/problems/circular-sentence/)                     | [Link](./lib/easy/circular_sentence.dart)                     |
 | 2520. Count the Digits That Divide a Number | [Link](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Link](./lib/easy/count_the_digits_that_divide_a_number.dart) |
-| 2544. Alternating Digit Sum             | [Link](https://leetcode.com/problems/alternating-digit-sum/)               | [Link](./lib/easy/alternating_digit_sum.dart)               |
+| 2544. Alternating Digit Sum                 | [Link](https://leetcode.com/problems/alternating-digit-sum/)                 | [Link](./lib/easy/alternating_digit_sum.dart)                 |
 
 ## Medium
 
