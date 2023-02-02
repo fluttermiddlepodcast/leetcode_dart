@@ -21,6 +21,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 2239. Find Closest Number to Zero       | [Link](https://leetcode.com/problems/find-closest-number-to-zero/)         | [Link](./lib/easy/find_closest_number_to_zero.dart)         |
 | 2481. Minimum Cuts to Divide a Circle   | [Link](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)     | [Link](./lib/easy/minimum_cuts_to_divide_a_circle.dart)     |
 | 2490. Circular Sentence                 | [Link](https://leetcode.com/problems/circular-sentence/)                   | [Link](./lib/easy/circular_sentence.dart)                   |
+| 2544. Alternating Digit Sum             | [Link](https://leetcode.com/problems/alternating-digit-sum/)               | [Link](./lib/easy/alternating_digit_sum.dart)               |
 
 ## Medium
 
