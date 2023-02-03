@@ -8,6 +8,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 |---------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 9. Palindrome Number                        | [Link](https://leetcode.com/problems/palindrome-number/)                     | [Link](./lib/easy/palindrome_number.dart)                     |
 | 26. Remove Duplicates from Sorted Array     | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)   | [Link](./lib/easy/remove_duplicates_from_sorted_array.dart)   |
+| 27. Remove Element                          | [Link](https://leetcode.com/problems/remove-element/)                        | [Link](./lib/easy/remove_element.dart)                        |
 | 136. Single Number                          | [Link](https://leetcode.com/problems/single-number/)                         | [Link](./lib/easy/single_number.dart)                         |
 | 144. Binary Tree Preorder Traversal         | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)        | [Link](./lib/easy/binary_tree_preorder_traversal.dart)        |
 | 169. Majority Element                       | [Link](https://leetcode.com/problems/majority-element/)                      | [Link](./lib/easy/majority_element.dart)                      |
