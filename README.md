@@ -13,6 +13,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 | 144. Binary Tree Preorder Traversal         | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)        | [Link](./lib/easy/binary_tree_preorder_traversal.dart)        |
 | 169. Majority Element                       | [Link](https://leetcode.com/problems/majority-element/)                      | [Link](./lib/easy/majority_element.dart)                      |
 | 203. Remove Linked List Elements            | [Link](https://leetcode.com/problems/remove-linked-list-elements/)           | [Link](./lib/easy/remove_linked_list_elements.dart)           |
+| 206. Reverse Linked List                    | [Link](https://leetcode.com/problems/reverse-linked-list/)                   | [Link](./lib/easy/reverse_linked_list.dart)                   |
 | 217. Contains Duplicate                     | [Link](https://leetcode.com/problems/contains-duplicate/)                    | [Link](./lib/easy/contains_duplicate.dart)                    |
 | 226. Invert Binary Tree                     | [Link](https://leetcode.com/problems/invert-binary-tree/)                    | [Link](./lib/easy/invert_binary_tree.dart)                    |
 | 342. Power of Four                          | [Link](https://leetcode.com/problems/power-of-four/)                         | [Link](./lib/easy/power_of_four.dart)                         |
