@@ -4,10 +4,10 @@ import 'package:test/test.dart';
 void main() {
   group(
     'Example tests',
-        () {
+    () {
       final fcntz = Solution();
-      test('1', () => expect(1, fcntz.findClosestNumber([-4,-2,1,4,8])));
-      test('1', () => expect(1, fcntz.findClosestNumber([2,-1,1])));
+      test('1', () => expect(1, fcntz.findClosestNumber([-4, -2, 1, 4, 8])));
+      test('1', () => expect(1, fcntz.findClosestNumber([2, -1, 1])));
     },
   );
 }

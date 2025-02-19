@@ -75,9 +75,7 @@ void main() {
 
 bool _areEqual(TreeNode? f, TreeNode? s) {
   if (f != null && s != null) {
-    return f.val == s.val &&
-        _areEqual(f.left, s.left) &&
-        _areEqual(f.right, s.right);
+    return f.val == s.val && _areEqual(f.left, s.left) && _areEqual(f.right, s.right);
   }
   return f == null && s == null;
 }
