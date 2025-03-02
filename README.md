@@ -5,7 +5,7 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 ## Easy
 
 | Name                                        | LeetCode                                                                     | Solution                                                      |
-|---------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | 9. Palindrome Number                        | [Link](https://leetcode.com/problems/palindrome-number/)                     | [Link](./lib/easy/palindrome_number.dart)                     |
 | 26. Remove Duplicates from Sorted Array     | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)   | [Link](./lib/easy/remove_duplicates_from_sorted_array.dart)   |
 | 27. Remove Element                          | [Link](https://leetcode.com/problems/remove-element/)                        | [Link](./lib/easy/remove_element.dart)                        |
@@ -33,16 +33,17 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 ## Medium
 
 | Name                                   | LeetCode                                                                | Solution                                                   |
-|----------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------|
+| -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 12. Integer to Roman                   | [Link](https://leetcode.com/problems/integer-to-roman/)                 | [Link](./lib/medium/integer_to_roman.dart)                 |
 | 222. Count Complete Tree Nodes         | [Link](https://leetcode.com/problems/count-complete-tree-nodes/)        | [Link](./lib/medium/count_complete_tree_nodes.dart)        |
 | 230. Kth Smallest Element in a BST     | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)    | [Link](./lib/medium/kth_smallest_element_in_a_bst.dart)    |
 | 328. Odd Even Linked List              | [Link](https://leetcode.com/problems/odd-even-linked-list/)             | [Link](./lib/medium/odd_even_linked_list.dart)             |
 | 1325. Delete Leaves With a Given Value | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Link](./lib/medium/delete_leaves_with_a_given_value.dart) |
+| 1670. Design Front Middle Back Queue   | [Link](https://leetcode.com/problems/design-front-middle-back-queue/)   | [Link](./lib/medium/design_front_middle_back_queue.dart)   |
 
 ## Hard
 
 | Name                          | LeetCode                                                         | Solution                                          |
-|-------------------------------|------------------------------------------------------------------|---------------------------------------------------|
+| ----------------------------- | ---------------------------------------------------------------- | ------------------------------------------------- |
 | 23. Merge k Sorted Lists      | [Link](https://leetcode.com/problems/merge-k-sorted-lists/)      | [Link](./lib/hard/merge_k_sorted_lists.dart)      |
 | 32. Longest Valid Parentheses | [Link](https://leetcode.com/problems/longest-valid-parentheses/) | [Link](./lib/hard/longest_valid_parentheses.dart) |
