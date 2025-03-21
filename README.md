@@ -32,14 +32,15 @@ Solutions from [LeetCode](https://leetcode.com) on Dart.
 
 ## Medium
 
-| Name                                   | LeetCode                                                                | Solution                                                   |
-| -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 12. Integer to Roman                   | [Link](https://leetcode.com/problems/integer-to-roman/)                 | [Link](./lib/medium/integer_to_roman.dart)                 |
-| 222. Count Complete Tree Nodes         | [Link](https://leetcode.com/problems/count-complete-tree-nodes/)        | [Link](./lib/medium/count_complete_tree_nodes.dart)        |
-| 230. Kth Smallest Element in a BST     | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)    | [Link](./lib/medium/kth_smallest_element_in_a_bst.dart)    |
-| 328. Odd Even Linked List              | [Link](https://leetcode.com/problems/odd-even-linked-list/)             | [Link](./lib/medium/odd_even_linked_list.dart)             |
-| 1325. Delete Leaves With a Given Value | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Link](./lib/medium/delete_leaves_with_a_given_value.dart) |
-| 1670. Design Front Middle Back Queue   | [Link](https://leetcode.com/problems/design-front-middle-back-queue/)   | [Link](./lib/medium/design_front_middle_back_queue.dart)   |
+| Name                                       | LeetCode                                                                    | Solution                                                       |
+| ------------------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 12. Integer to Roman                       | [Link](https://leetcode.com/problems/integer-to-roman/)                     | [Link](./lib/medium/integer_to_roman.dart)                     |
+| 222. Count Complete Tree Nodes             | [Link](https://leetcode.com/problems/count-complete-tree-nodes/)            | [Link](./lib/medium/count_complete_tree_nodes.dart)            |
+| 230. Kth Smallest Element in a BST         | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)        | [Link](./lib/medium/kth_smallest_element_in_a_bst.dart)        |
+| 328. Odd Even Linked List                  | [Link](https://leetcode.com/problems/odd-even-linked-list/)                 | [Link](./lib/medium/odd_even_linked_list.dart)                 |
+| 1325. Delete Leaves With a Given Value     | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/)     | [Link](./lib/medium/delete_leaves_with_a_given_value.dart)     |
+| 1670. Design Front Middle Back Queue       | [Link](https://leetcode.com/problems/design-front-middle-back-queue/)       | [Link](./lib/medium/design_front_middle_back_queue.dart)       |
+| 2150. Find All Lonely Numbers in the Array | [Link](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [Link](./lib/medium/find_all_lonely_numbers_in_the_array.dart) |
 
 ## Hard
 
